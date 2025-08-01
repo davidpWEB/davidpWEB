@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - [Active Directory Home Lab](???)
+ - [osTicket: Prerequisites and Installation](https://github.com/davidpWEB/osticket-prereqs)
 
 
 
