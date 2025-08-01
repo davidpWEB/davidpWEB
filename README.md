@@ -1,6 +1,6 @@
-<h1>Hi, I'm David! <a href="https://www.linkedin.com/in/david-wood-077495222/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@davidpWEB">YouTuber</a></h1>
+<h1>Hi, I'm David! <a href="https://www.linkedin.com/in/david-wood-077495222/">IT Professional</a>, <a href="https://www.youtube.com/@davidpWEB">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
   - [Active Directory Home Lab](???)
 
