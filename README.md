@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm David 👋</h1>
 <h3 align="center">
   <a href="https://www.linkedin.com/in/david-wood-077495222/">IT Professional</a> • 
-  <a href="https://www.youtube.com/@davidpWEB">Teacher</a> • 
+  <a href="https://www.youtube.com/@davidpWEB">Instructor</a> • 
   <a href="https://www.linkedin.com/pulse/learning-lifelong-journey-philosophy-overcoming-robert-a-williams/">Lifelong Learner</a>
 </h3>
 
