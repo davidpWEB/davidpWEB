@@ -3,12 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
  - [osTicket: Prerequisites and Installation](https://github.com/davidpWEB/osticket-prereqs)
-
+ - [osTicket: Post-Install Configuration](https://github.com/davidpWEB/post_install_config)
 
 
 <h2>📝 Certifications</h2>
 
 - Currently in progress (CourseCareers)
+- Comptia A+ 
 
 <h2>📺 Popular YouTube Videos</h2>
 
