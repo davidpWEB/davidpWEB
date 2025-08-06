@@ -10,6 +10,7 @@
 Hey! I'm currently transitioning into the IT field with a background in **video editing, customer service, and banking**.  
 
 Over the past year, I've been diving deep into hands-on labs, certifications, and real-world IT projects to build the skills needed for support and infrastructure roles. I’m passionate about problem-solving, helping people, and learning as I go.
+
 Right now, I’m focused on entry-level IT support opportunities where I can keep growing, contribute to a team, and make tech more approachable for others.
 
 ---
@@ -47,26 +48,15 @@ You can view or download my resume here:
 
 If you're hiring or interested in collaborating on IT or creative projects — I’d love to hear from you!
 
-- 📧 Email: **davidpwbusiness@gmail.com**  
-- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/david-wood-077495222/)
+- 📧 **Email:** davidpwbusiness@gmail.com  
+- 🔗 **LinkedIn:** [David Wood](https://www.linkedin.com/in/david-wood-077495222/)  
+- 🎥 **YouTube:** [@davidpWEB](https://www.youtube.com/@davidpWEB)  
+- 🐦 **Twitter / X:** [@davidpNET](https://x.com/davidpNET)
 
 > Always open to chatting about tech, support work, or future opportunities.
 
-### 🤝 Connect With Me
 
-<p>
-  <a href="https://www.youtube.com/@davidpWEB">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://x.com/davidpNET">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/david-wood-077495222/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-"Thanks for stopping by — feel free to explore my projects to see what I’m building next! 🚀"
+Thanks for stopping by — feel free to explore my projects to see what I’m building next! 🚀
 
 ---
 
