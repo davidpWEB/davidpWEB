@@ -7,10 +7,9 @@
 
 ---
 
-Hey! I'm David — currently transitioning into the IT field with a background in **video editing, customer service, and banking**.  
+Hey! I'm currently transitioning into the IT field with a background in **video editing, customer service, and banking**.  
 
 Over the past year, I've been diving deep into hands-on labs, certifications, and real-world IT projects to build the skills needed for support and infrastructure roles. I’m passionate about problem-solving, helping people, and learning as I go.
-
 Right now, I’m focused on entry-level IT support opportunities where I can keep growing, contribute to a team, and make tech more approachable for others.
 
 ---
