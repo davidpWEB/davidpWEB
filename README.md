@@ -27,7 +27,8 @@ Right now, I’m focused on entry-level IT support opportunities where I can kee
 - [Configuring Account Policies for Active Directory](https://github.com/davidpWEB/acct-policy-config)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/davidpWEB/network-protocols)
 
-> Hands-on labs featuring **Microsoft Azure**, **Windows Server**, and **Helpdesk systems** coming soon!
+> Labs demonstrate practical knowledge in **Azure**, **Windows Server**, **Active Directory**, and **networking fundamentals**.
+
 
 ---
 
