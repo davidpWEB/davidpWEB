@@ -2,15 +2,19 @@
 <h3 align="center">
   <a href="https://www.linkedin.com/in/david-wood-077495222/">IT Professional</a> • 
   <a href="https://www.youtube.com/@davidpWEB">YouTuber</a> • 
-  Lifelong Learner
+  <a href="https://www.linkedin.com/pulse/learning-lifelong-journey-philosophy-overcoming-robert-a-williams/">Lifelong Learner</a>
 </h3>
 
 ---
 
 ### 👨‍💻 Information Technology Projects
 
-- 🔧 [osTicket: Prerequisites and Installation](https://github.com/davidpWEB/osticket-prereqs)
-- ⚙️ [osTicket: Post-Install Configuration](https://github.com/davidpWEB/post_install_config)
+#### 🔧 osTicket Projects
+- [osTicket: Prerequisites and Installation](https://github.com/davidpWEB/osticket-prereqs)
+- [osTicket: Post-Install Configuration](https://github.com/davidpWEB/post_install_config)
+
+#### ☁️ Microsoft Azure Projects
+- *Coming soon...*
 
 > Currently building hands-on labs in **Microsoft Azure**, **Windows Server**, and **Helpdesk environments** to showcase real-world skills.
 
@@ -25,7 +29,7 @@
 
 ### 📺 Popular YouTube Videos
 
-- 🎥 [How to Get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to Get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 > Sharing free content on tech careers, project walkthroughs, and motivation.
 
