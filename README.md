@@ -22,7 +22,10 @@ Right now, I’m focused on entry-level IT support opportunities where I can kee
 - [osTicket: Post-Install Configuration](https://github.com/davidpWEB/post_install_config)
 
 #### ☁️ Microsoft Azure Projects
-- *Coming soon...*
+- [Creating Active Directory infrastructure: Prerequisites](https://github.com/davidpWEB/ad-prereqs)
+- [Creating Active Directory infrastructure within Azure VMs](https://github.com/davidpWEB/configure-ad)
+- [Configuring Account Policies for Active Directory](https://github.com/davidpWEB/acct-policy-config)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/davidpWEB/network-protocols)
 
 > Hands-on labs featuring **Microsoft Azure**, **Windows Server**, and **Helpdesk systems** coming soon!
 
