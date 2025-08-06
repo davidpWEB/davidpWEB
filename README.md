@@ -36,8 +36,6 @@ Right now, I’m focused on entry-level IT support opportunities where I can kee
 
 > I'm looking for roles that help me grow in IT support, troubleshooting, and user-focused technical work.
 
----
-
 ### 📄 Resume
 
 You can view or download my resume here:  
@@ -55,8 +53,6 @@ If you're hiring or interested in collaborating on IT or creative projects — I
 
 > Always open to chatting about tech, support work, or future opportunities.
 
----
-
 ### 🤝 Connect With Me
 
 <p>
@@ -71,11 +67,7 @@ If you're hiring or interested in collaborating on IT or creative projects — I
   </a>
 </p>
 
----
-
-### 🙌 Thanks for stopping by!
-
-Whether you're here to browse, collaborate, or just connect — I appreciate you taking the time to check out my work. Feel free to reach out!
+"Thanks for stopping by — feel free to explore my projects to see what I’m building next! 🚀"
 
 ---
 
