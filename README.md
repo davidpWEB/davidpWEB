@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm David 👋</h1>
 <h3 align="center">
-  <a href="https://www.linkedin.com/in/david-wood-077495222/">IT Professional</a> • 
+  <a href="https://www.linkedin.com/in/davidpwbusiness/">IT Professional</a> • 
   <a href="https://www.youtube.com/@davidpWEB">Instructor</a> •   
   <a href="https://x.com/davidpNET">Creative</a> •
   <a href="https://www.linkedin.com/pulse/learning-lifelong-journey-philosophy-overcoming-robert-a-williams/">Lifelong Learner</a>
@@ -54,7 +54,7 @@ You can view or download my resume here:
 If you're hiring or interested in collaborating on IT or creative projects — I’d love to hear from you!
 
 - 📧 **Email:** davidpwbusiness@gmail.com  
-- 🔗 **LinkedIn:** [David Wood](https://www.linkedin.com/in/david-wood-077495222/)  
+- 🔗 **LinkedIn:** [David Wood](https://www.linkedin.com/in/davidpwbusiness/)  
 - 🎥 **YouTube:** [@davidpWEB](https://www.youtube.com/@davidpWEB)  
 - 🐦 **Twitter / X:** [@davidpNET](https://x.com/davidpNET)
 
